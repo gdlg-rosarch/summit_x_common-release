@@ -1,0 +1,10 @@
+ros-indigo-summit-x-common (0.0.1-0saucy) saucy; urgency=high
+
+  * Changed package.xml files
+  * summit_x_description: creating package. Migrating urdf descriptions to indigo
+  * summit_x_common: first commit of metapackage
+  * Contributors: Jorge Arino, carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Thu, 07 Jul 2016 22:00:00 -0000
+
+
