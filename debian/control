@@ -1,0 +1,12 @@
+Source: ros-kinetic-summit-x-description
+Section: misc
+Priority: extra
+Maintainer: Román Navarro <rnavarro@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-robot-state-publisher, ros-kinetic-robotnik-sensors, ros-kinetic-urdf, ros-kinetic-xacro
+Homepage: https://github.com/RobotnikAutomation/summit_x_description
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-summit-x-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-robot-state-publisher, ros-kinetic-robotnik-sensors, ros-kinetic-urdf, ros-kinetic-xacro
+Description: The summit_x_description package
