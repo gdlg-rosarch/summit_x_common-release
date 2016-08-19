@@ -2,6 +2,12 @@
 Changelog for package summit_x_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2016-08-19)
+------------------
+* Minor change
+* Added installation lines to CMakeLists.txt in summit_x_description
+* Contributors: Jose Rapado
+
 0.0.2 (2016-07-18)
 ------------------
 
