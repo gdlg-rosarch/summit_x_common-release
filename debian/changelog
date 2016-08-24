@@ -1,0 +1,31 @@
+ros-kinetic-summit-x-description (0.1.0-0jessie) jessie; urgency=high
+
+
+
+ -- Román Navarro <rnavarro@robotnik.es>  Tue, 23 Aug 2016 22:00:00 -0000
+
+ros-kinetic-summit-x-description (0.0.3-0jessie) jessie; urgency=high
+
+  * Minor change
+  * Added installation lines to CMakeLists.txt in summit_x_description
+  * Contributors: Jose Rapado
+
+ -- Román Navarro <rnavarro@robotnik.es>  Thu, 18 Aug 2016 22:00:00 -0000
+
+ros-kinetic-summit-x-description (0.0.2-0jessie) jessie; urgency=high
+
+
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 17 Jul 2016 22:00:00 -0000
+
+ros-kinetic-summit-x-description (0.0.1-0jessie) jessie; urgency=high
+
+  * Changed package.xml files
+  * summit_x_description: added correct position for the asus xtion camera
+  * summit_x_common: fixed link to robotnik_sensors
+  * summit_x_description: creating package. Migrating urdf descriptions to indigo
+  * Contributors: Jorge Arino, carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Thu, 07 Jul 2016 22:00:00 -0000
+
+
