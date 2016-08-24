@@ -2,6 +2,11 @@
 Changelog for package summit_x_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2016-08-24)
+------------------
+* Fixed hardware interface
+* Contributors: Jorge Arino
+
 0.0.3 (2016-08-19)
 ------------------
 * Minor change
