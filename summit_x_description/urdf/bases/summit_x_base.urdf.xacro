@@ -95,12 +95,13 @@
   </joint>
 
   <transmission name="joint_scissor_trans">
-	 <type>transmission_interface/SimpleTransmission</type>
-     <joint name="scissor_prismatic_joint" />
-     <actuator name="scissor_motor">
-		<hardwareInterface>EffortJointInterface</hardwareInterface>
-		<mechanicalReduction>1</mechanicalReduction>
-	 </actuator>
+    <type>transmission_interface/SimpleTransmission</type>
+    <joint name="scissor_prismatic_joint">
+      <hardwareInterface>EffortJointInterface</hardwareInterface>
+    </joint>
+    <actuator name="scissor_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+     </actuator>
   </transmission>
 
 
