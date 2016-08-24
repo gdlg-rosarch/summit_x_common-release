@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>summit_x_description</name>
-  <version>0.0.3</version>
+  <version>0.0.4</version>
   <description>The summit_x_description package</description>
 
   <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
