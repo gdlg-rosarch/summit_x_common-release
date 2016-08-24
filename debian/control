@@ -1,0 +1,12 @@
+Source: ros-indigo-summit-x-description
+Section: misc
+Priority: extra
+Maintainer: Román Navarro <rnavarro@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-robot-state-publisher, ros-indigo-robotnik-sensors, ros-indigo-urdf, ros-indigo-xacro
+Homepage: https://github.com/RobotnikAutomation/summit_x_description
+Standards-Version: 3.9.2
+
+Package: ros-indigo-summit-x-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-robot-state-publisher, ros-indigo-robotnik-sensors, ros-indigo-urdf, ros-indigo-xacro
+Description: The summit_x_description package
